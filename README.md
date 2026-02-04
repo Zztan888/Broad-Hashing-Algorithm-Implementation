@@ -14,7 +14,7 @@ This project implements a **Broad Hashing** framework for efficient feature repr
 
 ## 📂 Quick Links
 * 📓 **Implementation (Code):** [Broad-Hashing_algorithm.ipynb](./Broad-Hashing_algorithm.ipynb)
-* 📄 **Reference Guide:** [Research Paper (PDF)](./BH_algorithm.pdf)
+* 📄 **Reference Guide:** [Research Paper (PDF)](./BH%20algorithm.pdf)
 * 📊 **Dataset Source:** [CIFAR-10 (University of Toronto)](https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz)
 
 ---
